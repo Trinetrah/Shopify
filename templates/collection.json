@@ -1,1 +1,115 @@
-{"sections":{"collection-image":{"type":"collection-image","disabled":true,"settings":{}},"breadcrumbs":{"type":"breadcrumbs","disabled":true,"settings":{}},"main":{"type":"collection-template","settings":{"collection_tags_enable":false,"collection_tags_count":false,"collection_multiple_tags_filtering_enable":false,"collection_sort_enable":false,"tag_selector":"button","collection_layout":"grid","rows":"2","desktop_grid":"2","mobile_grid":"1"}},"fa71838f-5277-4693-855b-cbbe1d199d37":{"type":"dbtfy-faq-section","blocks":{"template--17827629531428__fa71838f-5277-4693-855b-cbbe1d199d37-1675890526e5d3426e-0":{"type":"category_block","settings":{"title":"","dbtfy_faq_category":"Frequently Asked Questions","dbtfy_faq_icons":"support"}},"template--17827629531428__fa71838f-5277-4693-855b-cbbe1d199d37-1675890526e5d3426e-1":{"type":"text_block","settings":{"title":"","dbtfy_faq_page_open_1":false,"dbtfy_faq_page_icon_1":"check","question_1":"Warranty","text_1":"<p>This is your answer.<\/p>","dbtfy_faq_page_open_2":false,"dbtfy_faq_page_icon_2":"","question_2":"Shipping","text_2":"<p>This is your answer.<\/p>","dbtfy_faq_page_open_3":false,"dbtfy_faq_page_icon_3":"","question_3":"Question","text_3":"<p>This is your answer.<\/p>","dbtfy_faq_page_open_4":false,"dbtfy_faq_page_icon_4":"","question_4":"Question","text_4":"<p>This is your answer.<\/p>","dbtfy_faq_page_open_5":false,"dbtfy_faq_page_icon_5":"","question_5":"Question","text_5":"<p>This is your answer.<\/p>","dbtfy_faq_page_open_6":false,"dbtfy_faq_page_icon_6":"","question_6":"Question","text_6":"<p>This is your answer.<\/p>","dbtfy_faq_page_open_7":false,"dbtfy_faq_page_icon_7":"","question_7":"Question","text_7":"<p>This is your answer.<\/p>","dbtfy_faq_page_open_8":false,"dbtfy_faq_page_icon_8":"","question_8":"Question","text_8":"<p>This is your answer.<\/p>","dbtfy_faq_page_open_9":false,"dbtfy_faq_page_icon_9":"","question_9":"Question","text_9":"<p>This is your answer.<\/p>","dbtfy_faq_page_open_10":false,"dbtfy_faq_page_icon_10":"","question_10":"Question","text_10":"<p>This is your answer.<\/p>"}}},"block_order":["template--17827629531428__fa71838f-5277-4693-855b-cbbe1d199d37-1675890526e5d3426e-0","template--17827629531428__fa71838f-5277-4693-855b-cbbe1d199d37-1675890526e5d3426e-1"],"settings":{"show_on_desktop":true,"show_on_mobile":true,"title":"FAQ","subtitle":"","section_style":"section-border","dbtfy_faq_searchbox":false,"dbtfy_faq_search_placeholder":"Search questions...","text_alignment":"text-center","text_alignment_mobile":"text-center","dbtfy_faq_bannerbox":true,"dbtfy_faq_banner_icon":"help","dbtfy_faq_banner_text":"Didn't find your answer?","dbtfy_faq_banner_subtitle":"Our customer service will be happy to help you.","dbtfy_faq_btn":"Get in Touch","dbtfy_faq_link":"shopify:\/\/pages\/contact"}}},"order":["collection-image","breadcrumbs","main","fa71838f-5277-4693-855b-cbbe1d199d37"]}
+{
+  "sections": {
+    "collection-image": {
+      "type": "collection-image",
+      "settings": {
+      }
+    },
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "collection_tags_enable": false,
+        "collection_tags_count": false,
+        "collection_multiple_tags_filtering_enable": false,
+        "collection_sort_enable": false,
+        "tag_selector": "button",
+        "collection_layout": "grid",
+        "rows": "2",
+        "desktop_grid": "2",
+        "mobile_grid": "1"
+      }
+    },
+    "fa71838f-5277-4693-855b-cbbe1d199d37": {
+      "type": "dbtfy-faq-section",
+      "blocks": {
+        "template--17827629531428__fa71838f-5277-4693-855b-cbbe1d199d37-1675890526e5d3426e-0": {
+          "type": "category_block",
+          "settings": {
+            "title": "",
+            "dbtfy_faq_category": "Frequently Asked Questions",
+            "dbtfy_faq_icons": "support"
+          }
+        },
+        "template--17827629531428__fa71838f-5277-4693-855b-cbbe1d199d37-1675890526e5d3426e-1": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "dbtfy_faq_page_open_1": false,
+            "dbtfy_faq_page_icon_1": "check",
+            "question_1": "Warranty",
+            "text_1": "<p>This is your answer.<\/p>",
+            "dbtfy_faq_page_open_2": false,
+            "dbtfy_faq_page_icon_2": "",
+            "question_2": "Shipping",
+            "text_2": "<p>This is your answer.<\/p>",
+            "dbtfy_faq_page_open_3": false,
+            "dbtfy_faq_page_icon_3": "",
+            "question_3": "Question",
+            "text_3": "<p>This is your answer.<\/p>",
+            "dbtfy_faq_page_open_4": false,
+            "dbtfy_faq_page_icon_4": "",
+            "question_4": "Question",
+            "text_4": "<p>This is your answer.<\/p>",
+            "dbtfy_faq_page_open_5": false,
+            "dbtfy_faq_page_icon_5": "",
+            "question_5": "Question",
+            "text_5": "<p>This is your answer.<\/p>",
+            "dbtfy_faq_page_open_6": false,
+            "dbtfy_faq_page_icon_6": "",
+            "question_6": "Question",
+            "text_6": "<p>This is your answer.<\/p>",
+            "dbtfy_faq_page_open_7": false,
+            "dbtfy_faq_page_icon_7": "",
+            "question_7": "Question",
+            "text_7": "<p>This is your answer.<\/p>",
+            "dbtfy_faq_page_open_8": false,
+            "dbtfy_faq_page_icon_8": "",
+            "question_8": "Question",
+            "text_8": "<p>This is your answer.<\/p>",
+            "dbtfy_faq_page_open_9": false,
+            "dbtfy_faq_page_icon_9": "",
+            "question_9": "Question",
+            "text_9": "<p>This is your answer.<\/p>",
+            "dbtfy_faq_page_open_10": false,
+            "dbtfy_faq_page_icon_10": "",
+            "question_10": "Question",
+            "text_10": "<p>This is your answer.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17827629531428__fa71838f-5277-4693-855b-cbbe1d199d37-1675890526e5d3426e-0",
+        "template--17827629531428__fa71838f-5277-4693-855b-cbbe1d199d37-1675890526e5d3426e-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "FAQ",
+        "subtitle": "",
+        "section_style": "section-border",
+        "dbtfy_faq_searchbox": false,
+        "dbtfy_faq_search_placeholder": "Search questions...",
+        "text_alignment": "text-center",
+        "text_alignment_mobile": "text-center",
+        "dbtfy_faq_bannerbox": true,
+        "dbtfy_faq_banner_icon": "help",
+        "dbtfy_faq_banner_text": "Didn't find your answer?",
+        "dbtfy_faq_banner_subtitle": "Our customer service will be happy to help you.",
+        "dbtfy_faq_btn": "Get in Touch",
+        "dbtfy_faq_link": "shopify:\/\/pages\/contact"
+      }
+    }
+  },
+  "order": [
+    "collection-image",
+    "breadcrumbs",
+    "main",
+    "fa71838f-5277-4693-855b-cbbe1d199d37"
+  ]
+}

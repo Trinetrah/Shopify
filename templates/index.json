@@ -89,7 +89,7 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "featured_product": "nue",
+        "featured_product": "",
         "section_style": "section-blank",
         "show_product_vendor": false,
         "show_product_type": false,

@@ -12,6 +12,7 @@
     },
     "main": {
       "type": "collection-template",
+      "disabled": true,
       "settings": {
         "collection_tags_enable": false,
         "collection_tags_count": false,

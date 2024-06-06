@@ -1,1 +1,698 @@
-{"current":{"search_enabled":false,"search_show_collections":false,"search_show_products":false,"search_show_articles":false,"search_show_pages":false,"grid_product_truncate":false,"grid_product_hover":false,"show_author":false,"show_date":false,"show_comments":false,"show_tags":false,"show_locale_selector":false,"show_currency_selector":false,"newsletter_optin":false,"show_back_to_collection":false,"show_breadcrumbs_on_desktop":false,"show_breadcrumbs_on_mobile":false,"show_social_media_on_desktop":false,"payment_icon_1":"","cart_type":"page","color_announcement_bg":"#c4000e","color_nav_border":"#FFFFFF","color_nav_text":"#000000","color_default":"#fff","color_border":"#ffffff","color_headings":"#000000","color_body_text":"#000000","color_primary":"#e22120","color_secondary":"#e22120","color_input":"#e4e4e4","color_errors":"#e22120","color_sales_price":"#e22120","color_drawer_bg":"#FFFFFF","color_drawer_default":"#000000","color_drawer_border":"#FFFFFF","color_drawer_text":"#000000","color_drawer_primary":"#000000","color_drawer_button_text":"#FFFFFF","color_drawer_secondary":"#e22120","color_drawer_input":"#e4e4e4","color_drawer_errors":"#e22120","color_drawer_sales_price":"#e22120","color_footer_bg":"#c4000e","color_footer_default":"#000000","color_footer_border":"#c4000e","color_footer_text":"#FFFFFF","color_footer_primary":"#000000","color_footer_button_text":"#fafafa","color_footer_secondary":"#e22120","color_footer_input":"#9f9696","color_footer_errors":"#e22120","color_footer_sales_price":"#e22120","color_overlay":"#c4000e","favicon":"shopify:\/\/shop_images\/Untitled_design_3_96a11b14-b111-49fa-8374-7f70c391a2db.png","dbtfy_delivery_time":false,"dbtfy_trust_badge":true,"dbtfy_back_in_stock":false,"dbtfy_instagram_feed":false,"dbtfy_order_feedback":false,"dbtfy_social_discount":false,"dbtfy_wish_list":false,"dbtfy_collection_addtocart":false,"dbtfy_collection_filters":false,"dbtfy_color_swatches":false,"dbtfy_custom_currencies":false,"dbtfy_delivery_date":false,"dbtfy_order_tracking":true,"dbtfy_quick_compare":false,"dbtfy_quick_view":false,"dbtfy_recently_viewed":false,"dbtfy_size_chart":false,"dbtfy_smart_search":false,"dbtfy_synced_variant_image":false,"dbtfy_newsletter_floating_bar":false,"dbtfy_newsletter_popup_width":"large","dbtfy_newsletter_popup_image":"shopify:\/\/shop_images\/final.png","dbtfy_newsletter_popup_time_trigger":true,"dbtfy_newsletter_popup_timeout":40,"dbtfy_newsletter_popup_scroll_depth":true,"dbtfy_newsletter_popup_scroll_percentage":60,"dbtfy_newsletter_popup_discount_name":"10OFF","dbtfy_newsletter_popup_discount_amount":"10","checkout_logo_image":"shopify:\/\/shop_images\/NueCup.png","checkout_logo_position":"center","checkout_logo_size":"large","checkout_accent_color":"#c4000e","checkout_button_color":"#c4000e","sections":{"dbtfy-account-settings":{"type":"dbtfy-account-settings","settings":{}},"dbtfy-bullet-points":{"type":"dbtfy-bullet-points","blocks":{"ff517bc5-fbfc-4c3e-8f21-20327379a670":{"type":"point","settings":{"title":"","dbtfy_bullet_point_text_1":"<p>Self Application<\/p>","dbtfy_bullet_point_icon_1":"favorite","visibility_1":"all","dbtfy_bullet_point_collection_1":"","dbtfy_bullet_point_type_1":"","dbtfy_bullet_point_tag_1":"","dbtfy_bullet_point_product_1":"nue","dbtfy_bullet_point_text_2":"<p>1 Year Warranty<\/p>","dbtfy_bullet_point_icon_2":"favorite","visibility_2":"product","dbtfy_bullet_point_collection_2":"","dbtfy_bullet_point_type_2":"","dbtfy_bullet_point_tag_2":"","dbtfy_bullet_point_product_2":"nue","dbtfy_bullet_point_text_3":"","dbtfy_bullet_point_icon_3":"favorite","visibility_3":"product","dbtfy_bullet_point_collection_3":"","dbtfy_bullet_point_type_3":"","dbtfy_bullet_point_tag_3":"","dbtfy_bullet_point_product_3":"nue","dbtfy_bullet_point_text_4":"<p>Knot & Pain Relief<\/p>","dbtfy_bullet_point_icon_4":"favorite","visibility_4":"product","dbtfy_bullet_point_collection_4":"","dbtfy_bullet_point_type_4":"","dbtfy_bullet_point_tag_4":"","dbtfy_bullet_point_product_4":"nue","dbtfy_bullet_point_text_5":"<p>30 Day Return<\/p>","dbtfy_bullet_point_icon_5":"favorite","visibility_5":"all","dbtfy_bullet_point_collection_5":"","dbtfy_bullet_point_type_5":"","dbtfy_bullet_point_tag_5":"","dbtfy_bullet_point_product_5":"nue","dbtfy_bullet_point_text_6":"<p>Improved Circulation<\/p>","dbtfy_bullet_point_icon_6":"favorite","visibility_6":"product","dbtfy_bullet_point_collection_6":"","dbtfy_bullet_point_type_6":"","dbtfy_bullet_point_tag_6":"","dbtfy_bullet_point_product_6":"nue","dbtfy_bullet_point_text_7":"<p>High Quality<\/p>","dbtfy_bullet_point_icon_7":"favorite","visibility_7":"all","dbtfy_bullet_point_collection_7":"","dbtfy_bullet_point_type_7":"","dbtfy_bullet_point_tag_7":"","dbtfy_bullet_point_product_7":"","dbtfy_bullet_point_text_8":"","dbtfy_bullet_point_icon_8":"check_circle","visibility_8":"all","dbtfy_bullet_point_collection_8":"","dbtfy_bullet_point_type_8":"","dbtfy_bullet_point_tag_8":"","dbtfy_bullet_point_product_8":"","dbtfy_bullet_point_text_9":"","dbtfy_bullet_point_icon_9":"check_circle","visibility_9":"all","dbtfy_bullet_point_collection_9":"","dbtfy_bullet_point_type_9":"","dbtfy_bullet_point_tag_9":"","dbtfy_bullet_point_product_9":"","dbtfy_bullet_point_text_10":"","dbtfy_bullet_point_icon_10":"check_circle","visibility_10":"all","dbtfy_bullet_point_collection_10":"","dbtfy_bullet_point_type_10":"","dbtfy_bullet_point_tag_10":"","dbtfy_bullet_point_product_10":""}}},"block_order":["ff517bc5-fbfc-4c3e-8f21-20327379a670"],"settings":{"dbtfy_bullet_points_position":"under-product-price","dbtfy_bullet_points_alignment":"left","dbtfy_bullet_points_display_type":"inline"}},"dbtfy-cart-goal":{"type":"dbtfy-cart-goal","blocks":{"9145917c-7d82-436b-89d6-1f3c9b269791":{"type":"goal","settings":{"title":"","dbtfy_cart_goal_region_1":"united states","dbtfy_cart_goal_amount_1":"70","dbtfy_cart_goal_region_2":"","dbtfy_cart_goal_amount_2":"70","dbtfy_cart_goal_region_3":"","dbtfy_cart_goal_amount_3":"70","dbtfy_cart_goal_region_4":"","dbtfy_cart_goal_amount_4":"70","dbtfy_cart_goal_region_5":"","dbtfy_cart_goal_amount_5":"70","dbtfy_cart_goal_region_6":"","dbtfy_cart_goal_amount_6":"70","dbtfy_cart_goal_region_7":"","dbtfy_cart_goal_amount_7":"70","dbtfy_cart_goal_region_8":"","dbtfy_cart_goal_amount_8":"70","dbtfy_cart_goal_region_9":"","dbtfy_cart_goal_amount_9":"70","dbtfy_cart_goal_region_10":"","dbtfy_cart_goal_amount_10":"70"}}},"block_order":["9145917c-7d82-436b-89d6-1f3c9b269791"],"settings":{"dbtfy_cart_goal_before_text":"You're","dbtfy_cart_goal_amount":"70","dbtfy_cart_goal_after_text":"away from FREE shipping!","dbtfy_cart_goal_reached_text":"You are eligible for FREE shipping!","dbtfy_cart_goal_icons":"local_shipping"}},"dbtfy-cart-upsell":{"type":"dbtfy-cart-upsell","settings":{"dbtfy_cart_upsell_button_style":"btn--primary"}},"dbtfy-color-swatches":{"type":"dbtfy-color-swatches","settings":{}},"dbtfy-customizable-products":{"type":"dbtfy-customizable-products","settings":{}},"dbtfy-delivery-time":{"type":"dbtfy-delivery-time","settings":{"dbtfy_delivery_time_position":"under-addtocart-button"}},"dbtfy-product-tabs":{"type":"dbtfy-product-tabs","blocks":{"62037f7c-2df5-4c30-8430-3685c63342ba":{"type":"text","settings":{"title":"","dbtfy_product_tabs_open":false,"text_alignment":"text-center","dbtfy_product_tabs_icons":"","dbtfy_product_tabs_title":"Shipping Details","dbtfy_product_tabs_text":"<p>Nue Cup™ orders are fulfilled and then shipped to anywhere in the united states in an average 5-10 days. <\/p>","dbtfy_product_tabs_image_link":"","dbtfy_product_tabs_html":"","visibility":"product","dbtfy_product_tabs_collection":"","dbtfy_product_tabs_type":"","dbtfy_product_tabs_tag":"","dbtfy_product_tabs_product":"nue"}},"b067c394-7eec-4c63-88d7-fff8eb72d6fb":{"type":"text","settings":{"title":"","dbtfy_product_tabs_open":false,"text_alignment":"text-center","dbtfy_product_tabs_icons":"","dbtfy_product_tabs_title":"Returns","dbtfy_product_tabs_text":"<p>If there is any issues at all with your order don't hesitate to reach out to our friendly customer support team at hello@thenuecup.com. We will be happy to offer you an immediate solution and ensure you are left satisfied with your experience!<\/p>","dbtfy_product_tabs_image_link":"","dbtfy_product_tabs_html":"","visibility":"all","dbtfy_product_tabs_collection":"","dbtfy_product_tabs_type":"","dbtfy_product_tabs_tag":"","dbtfy_product_tabs_product":"nue"}},"d519edaa-10c8-4142-a70e-dc829c6405c2":{"type":"text","settings":{"title":"","dbtfy_product_tabs_open":false,"text_alignment":"text-center","dbtfy_product_tabs_icons":"","dbtfy_product_tabs_title":"Specifications","dbtfy_product_tabs_text":"<p><strong>The Nue Cup™<\/strong><\/p><p>Weight: 425g<br\/>Dimensions: 17.8*13.3*8.6cm<br\/>Battery Life: 3 hours on max<br\/>Charge Time: 4 hours<br\/>Suction Intensity: up to level 12 intensity (-5 to -60 kPa)<br\/>Red Light Wavelength: 630-670nm<br\/>Heat: 100°F - 122°F (38°C - 50°C)<br\/>LCD display with numbers and countdown timer<br\/>Pressure\/suction release button<\/p>","dbtfy_product_tabs_image_link":"","dbtfy_product_tabs_html":"","visibility":"all","dbtfy_product_tabs_collection":"","dbtfy_product_tabs_type":"","dbtfy_product_tabs_tag":"","dbtfy_product_tabs_product":""}}},"block_order":["62037f7c-2df5-4c30-8430-3685c63342ba","b067c394-7eec-4c63-88d7-fff8eb72d6fb","d519edaa-10c8-4142-a70e-dc829c6405c2"],"settings":{"dbtfy_product_tabs_display_type":"vertical","dbtfy_product_tab_heading_color":"headings","dbtfy_product_tab_text_color":"text","dbtfy_product_tab_background_color":"accent_background"}},"dbtfy-product-swatches":{"type":"dbtfy-product-swatches","settings":{"dbtfy_product_swatches_show_in_grid":true}},"dbtfy-quantity-breaks":{"type":"dbtfy-quantity-breaks","blocks":{"76477023-af81-4133-89f9-ed7060a7d387":{"type":"product-break","settings":{"title":"","product_break_show_on_product_page":true,"product_break_visibility":"product","product_break_collection":"","product_break_types":"","product_break_tags":"","product_break_product":"nue","product_break_range_1":2,"product_break_discount_code_1":"Buy 2","product_break_discount_amount_1":"20","product_break_discount_type_1":"$","product_break_range_2":4,"product_break_discount_code_2":"Buy 4","product_break_discount_amount_2":"50","product_break_discount_type_2":"$","product_break_range_3":2,"product_break_discount_code_3":"","product_break_discount_amount_3":"","product_break_discount_type_3":"$","product_break_range_4":2,"product_break_discount_code_4":"","product_break_discount_amount_4":"","product_break_discount_type_4":"%","product_break_range_5":2,"product_break_discount_code_5":"","product_break_discount_amount_5":"","product_break_discount_type_5":"%"}}},"block_order":["76477023-af81-4133-89f9-ed7060a7d387"],"settings":{"dbtfy_quantity_breaks_single_text":"Buy _COUNT_: _PRICE_ _SAVED_AMOUNT_","dbtfy_quantity_breaks_price_type":"total_price","dbtfy_quantity_breaks_more_discount_text_before":"Add","dbtfy_quantity_breaks_more_discount_text_after":"more item to unlock","dbtfy_quantity_breaks_more_discount_text_after_percentage":"off","dbtfy_quantity_breaks_highest_discount_text":"Highest discount applied!"}},"dbtfy-size-chart":{"type":"dbtfy-size-chart","settings":{"dbtfy_size_chart_icon":"straighten","dbtfy_size_chart_title":"Size chart","dbtfy_size_chart_width":"large"}},"dbtfy-upsell-popup":{"type":"dbtfy-upsell-popup","blocks":{"30ba3f09-601f-4936-9a0c-1961a08315a8":{"type":"upsell","settings":{"heading":"","title_1":"Lifetime Warranty!","text_1":"<p>For Only $5<\/p>","collection_trigger_1":"","product_trigger_1":"nue","product_offer_1":"warranty","icons_1":"card_giftcard","button_label_1":"Claim offer!","discount_name_1":"","discount_amount_1":"","discount_type_1":"%","title_2":"Special Offer!","text_2":"<p>Add this product to your cart and get 20% OFF your entire order.<\/p>","collection_trigger_2":"","product_trigger_2":"","product_offer_2":"","icons_2":"card_giftcard","button_label_2":"Claim offer!","discount_name_2":"","discount_amount_2":"","discount_type_2":"%","title_3":"Special Offer!","text_3":"<p>Add this product to your cart and get 20% OFF your entire order.<\/p>","collection_trigger_3":"","product_trigger_3":"","product_offer_3":"","icons_3":"card_giftcard","button_label_3":"Claim offer!","discount_name_3":"","discount_amount_3":"","discount_type_3":"%","title_4":"Special Offer!","text_4":"<p>Add this product to your cart and get 20% OFF your entire order.<\/p>","collection_trigger_4":"","product_trigger_4":"","product_offer_4":"","icons_4":"card_giftcard","button_label_4":"Claim offer!","discount_name_4":"","discount_amount_4":"","discount_type_4":"%","title_5":"Special Offer!","text_5":"<p>Add this product to your cart and get 20% OFF your entire order.<\/p>","collection_trigger_5":"","product_trigger_5":"","product_offer_5":"","icons_5":"card_giftcard","button_label_5":"Claim offer!","discount_name_5":"","discount_amount_5":"","discount_type_5":"%","title_6":"Special Offer!","text_6":"<p>Add this product to your cart and get 20% OFF your entire order.<\/p>","collection_trigger_6":"","product_trigger_6":"","product_offer_6":"","icons_6":"card_giftcard","button_label_6":"Claim offer!","discount_name_6":"","discount_amount_6":"","discount_type_6":"%","title_7":"Special Offer!","text_7":"<p>Add this product to your cart and get 20% OFF your entire order.<\/p>","collection_trigger_7":"","product_trigger_7":"","product_offer_7":"","icons_7":"card_giftcard","button_label_7":"Claim offer!","discount_name_7":"","discount_amount_7":"","discount_type_7":"%","title_8":"Special Offer!","text_8":"<p>Add this product to your cart and get 20% OFF your entire order.<\/p>","collection_trigger_8":"","product_trigger_8":"","product_offer_8":"","icons_8":"card_giftcard","button_label_8":"Claim offer!","discount_name_8":"","discount_amount_8":"","discount_type_8":"%","title_9":"Special Offer!","text_9":"<p>Add this product to your cart and get 20% OFF your entire order.<\/p>","collection_trigger_9":"","product_trigger_9":"","product_offer_9":"","icons_9":"card_giftcard","button_label_9":"Claim offer!","discount_name_9":"","discount_amount_9":"","discount_type_9":"%","title_10":"Special Offer!","text_10":"<p>Add this product to your cart and get 20% OFF your entire order.<\/p>","collection_trigger_10":"","product_trigger_10":"","product_offer_10":"","icons_10":"card_giftcard","button_label_10":"Claim offer!","discount_name_10":"","discount_amount_10":"","discount_type_10":"%"}}},"block_order":["30ba3f09-601f-4936-9a0c-1961a08315a8"],"settings":{"dbtfy_upsell_popup_width":"","dbtfy_upsell_popup_description":"See product details","dbtfy_upsell_popup_cart":"No thanks","dbtfy_upsell_popup_checkout":"Go to checkout →","text_alignment":"text-center","dbtfy_upsell_popup_range":75}},"drawer-menu":{"type":"drawer-menu","settings":{"drawer_link_toggle":false,"email":true,"phone":true,"show_social_medias":true,"hide_menu_icon":false,"title":"Menu","drawer_top_link_list":"main-menu","drawer_bottom_link_list":"footer"}},"announcement":{"type":"announcement","blocks":{"announcement-0":{"type":"message","settings":{"title":"","announcement_text":"<p>30 Day Guarantee + 1 Year Warranty<\/p>"}}},"block_order":["announcement-0"],"settings":{"show_announcement":true,"small_announcement_text":false,"show_social":false,"email":true,"phone":false,"left_message":"","right_message":"","announcement_autoplayspeed":5}},"header":{"type":"header","settings":{"main_menu_link_list":"main-menu","navigation_type":"center","logo_link":true,"default_logo":"shopify:\/\/shop_images\/NueCup.png","mobile_logo":"shopify:\/\/shop_images\/NueCup.png","default_logo_svg":"","inverted_logo_svg":"","mobile_logo_svg":"","logo_width":200,"logo_mobile_width":150}},"dbtfy-instagram-feed":{"type":"dbtfy-instagram-feed","settings":{"dbtfy_instagram_feed_icon":false,"dbtfy_instagram_feed_access_token":"","dbtfy_instagram_feed_full_width":false,"title":"From our Instagram","subtitle":"","dbtfy_instagram_feed_section_style":"section-border","dbtfy_instagram_feed_rows":"1","dbtfy_instagram_feed_desktop_grid":"6","dbtfy_instagram_feed_mobile_grid":"3"}},"guarantee":{"type":"guarantee","blocks":{"guarantee-0":{"type":"text","settings":{"title":"","guarantee_icon":"thumb_up","heading_text":"Hassle-Free Returns","text":"","text_alignment":"text-center","text_alignment_mobile":"text-center","button_style":"btn-outline-primary","button_label":"","button_link":""}},"guarantee-2":{"type":"text","settings":{"title":"","guarantee_icon":"date_range","heading_text":"Free 1 Year Warranty","text":"","text_alignment":"text-center","text_alignment_mobile":"text-center","button_style":"btn-outline-primary","button_label":"","button_link":""}},"4f41d0ca-5d23-47fe-b040-faeadd48b9fe":{"type":"text","settings":{"title":"","guarantee_icon":"done_outline","heading_text":"100% Satisfaction Guaranteed","text":"","text_alignment":"text-center","text_alignment_mobile":"text-center","button_style":"btn-outline-primary","button_label":"","button_link":""}},"1e44227c-1e82-4814-9e40-6538661e0b21":{"type":"text","settings":{"title":"","guarantee_icon":"grade","heading_text":"USA Customer Service","text":"","text_alignment":"text-center","text_alignment_mobile":"text-center","button_style":"btn-outline-primary","button_label":"","button_link":""}}},"block_order":["guarantee-0","guarantee-2","4f41d0ca-5d23-47fe-b040-faeadd48b9fe","1e44227c-1e82-4814-9e40-6538661e0b21"],"settings":{"show_guarantee":true,"guarantee_size":"xl","section_style":"section-border"}},"footer":{"type":"footer","blocks":{"footer-0":{"type":"text","settings":{"title":"","column_width":2,"svg":"","img_url":"","logo_width":150,"heading_text":"About Us","subtitle":"","text":"<p>Nue Cup™ is designed to take away your aches, pains and improve your over all body comfort. Aiding your recovery and getting you feeling your best!<\/p>","email":true,"phone":true,"show_social_media":false}},"footer-1":{"type":"link_list","settings":{"title":"","column_width":1,"heading_text":"Quick Links","subtitle":"","footer_link_list":"footer"}}},"block_order":["footer-0","footer-1"],"settings":{"show_social_media":false,"social_media_position_desktop":"right","social_title":"Follow-us on social media!","show_payment_icons":true,"show_shopify_footer":false,"show_debutify_footer":false,"custom_credential":""}},"dbtfy-collection-filters":{"type":"dbtfy-collection-filters","settings":{"clear_label":"Clear","clear_all_label":"Clear All","hide_unavailable_options":false,"visibility_tags_count":"none"}}},"content_for_index":[]}}
+{
+  "current": {
+    "search_enabled": false,
+    "search_show_collections": false,
+    "search_show_products": false,
+    "search_show_articles": false,
+    "search_show_pages": false,
+    "grid_product_truncate": false,
+    "grid_product_hover": false,
+    "show_author": false,
+    "show_date": false,
+    "show_comments": false,
+    "show_tags": false,
+    "show_locale_selector": false,
+    "show_currency_selector": false,
+    "newsletter_optin": false,
+    "show_back_to_collection": false,
+    "show_breadcrumbs_on_desktop": false,
+    "show_breadcrumbs_on_mobile": false,
+    "show_social_media_on_desktop": false,
+    "payment_icon_1": "",
+    "cart_type": "page",
+    "color_announcement_bg": "#c4000e",
+    "color_nav_border": "#FFFFFF",
+    "color_nav_text": "#000000",
+    "color_default": "#fff",
+    "color_border": "#ffffff",
+    "color_headings": "#000000",
+    "color_body_text": "#000000",
+    "color_primary": "#e22120",
+    "color_secondary": "#e22120",
+    "color_input": "#e4e4e4",
+    "color_errors": "#e22120",
+    "color_sales_price": "#e22120",
+    "color_drawer_bg": "#FFFFFF",
+    "color_drawer_default": "#000000",
+    "color_drawer_border": "#FFFFFF",
+    "color_drawer_text": "#000000",
+    "color_drawer_primary": "#000000",
+    "color_drawer_button_text": "#FFFFFF",
+    "color_drawer_secondary": "#e22120",
+    "color_drawer_input": "#e4e4e4",
+    "color_drawer_errors": "#e22120",
+    "color_drawer_sales_price": "#e22120",
+    "color_footer_bg": "#c4000e",
+    "color_footer_default": "#000000",
+    "color_footer_border": "#c4000e",
+    "color_footer_text": "#FFFFFF",
+    "color_footer_primary": "#000000",
+    "color_footer_button_text": "#fafafa",
+    "color_footer_secondary": "#e22120",
+    "color_footer_input": "#9f9696",
+    "color_footer_errors": "#e22120",
+    "color_footer_sales_price": "#e22120",
+    "color_overlay": "#c4000e",
+    "favicon": "shopify:\/\/shop_images\/Untitled_design_3_96a11b14-b111-49fa-8374-7f70c391a2db.png",
+    "dbtfy_delivery_time": false,
+    "dbtfy_trust_badge": true,
+    "dbtfy_back_in_stock": false,
+    "dbtfy_instagram_feed": false,
+    "dbtfy_order_feedback": false,
+    "dbtfy_social_discount": false,
+    "dbtfy_wish_list": false,
+    "dbtfy_collection_addtocart": false,
+    "dbtfy_collection_filters": false,
+    "dbtfy_color_swatches": false,
+    "dbtfy_custom_currencies": false,
+    "dbtfy_delivery_date": false,
+    "dbtfy_order_tracking": true,
+    "dbtfy_quick_compare": false,
+    "dbtfy_quick_view": false,
+    "dbtfy_recently_viewed": false,
+    "dbtfy_size_chart": false,
+    "dbtfy_smart_search": false,
+    "dbtfy_synced_variant_image": false,
+    "dbtfy_addtocart_animation_interval": 5,
+    "dbtfy_newsletter_floating_bar": false,
+    "dbtfy_newsletter_popup_width": "large",
+    "dbtfy_newsletter_popup_image": "shopify:\/\/shop_images\/final.png",
+    "dbtfy_newsletter_popup_time_trigger": true,
+    "dbtfy_newsletter_popup_timeout": 40,
+    "dbtfy_newsletter_popup_scroll_depth": true,
+    "dbtfy_newsletter_popup_scroll_percentage": 60,
+    "dbtfy_newsletter_popup_discount_name": "10OFF",
+    "dbtfy_newsletter_popup_discount_amount": "10",
+    "checkout_logo_image": "shopify:\/\/shop_images\/NueCup.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
+    "checkout_accent_color": "#c4000e",
+    "checkout_button_color": "#c4000e",
+    "sections": {
+      "dbtfy-account-settings": {
+        "type": "dbtfy-account-settings",
+        "settings": {
+        }
+      },
+      "dbtfy-bullet-points": {
+        "type": "dbtfy-bullet-points",
+        "blocks": {
+          "ff517bc5-fbfc-4c3e-8f21-20327379a670": {
+            "type": "point",
+            "settings": {
+              "title": "",
+              "dbtfy_bullet_point_text_1": "<p>Self Application<\/p>",
+              "dbtfy_bullet_point_icon_1": "favorite",
+              "visibility_1": "all",
+              "dbtfy_bullet_point_collection_1": "",
+              "dbtfy_bullet_point_type_1": "",
+              "dbtfy_bullet_point_tag_1": "",
+              "dbtfy_bullet_point_product_1": "nue",
+              "dbtfy_bullet_point_text_2": "<p>1 Year Warranty<\/p>",
+              "dbtfy_bullet_point_icon_2": "favorite",
+              "visibility_2": "product",
+              "dbtfy_bullet_point_collection_2": "",
+              "dbtfy_bullet_point_type_2": "",
+              "dbtfy_bullet_point_tag_2": "",
+              "dbtfy_bullet_point_product_2": "nue",
+              "dbtfy_bullet_point_text_3": "",
+              "dbtfy_bullet_point_icon_3": "favorite",
+              "visibility_3": "product",
+              "dbtfy_bullet_point_collection_3": "",
+              "dbtfy_bullet_point_type_3": "",
+              "dbtfy_bullet_point_tag_3": "",
+              "dbtfy_bullet_point_product_3": "nue",
+              "dbtfy_bullet_point_text_4": "<p>Knot & Pain Relief<\/p>",
+              "dbtfy_bullet_point_icon_4": "favorite",
+              "visibility_4": "product",
+              "dbtfy_bullet_point_collection_4": "",
+              "dbtfy_bullet_point_type_4": "",
+              "dbtfy_bullet_point_tag_4": "",
+              "dbtfy_bullet_point_product_4": "nue",
+              "dbtfy_bullet_point_text_5": "<p>30 Day Return<\/p>",
+              "dbtfy_bullet_point_icon_5": "favorite",
+              "visibility_5": "all",
+              "dbtfy_bullet_point_collection_5": "",
+              "dbtfy_bullet_point_type_5": "",
+              "dbtfy_bullet_point_tag_5": "",
+              "dbtfy_bullet_point_product_5": "nue",
+              "dbtfy_bullet_point_text_6": "<p>Improved Circulation<\/p>",
+              "dbtfy_bullet_point_icon_6": "favorite",
+              "visibility_6": "product",
+              "dbtfy_bullet_point_collection_6": "",
+              "dbtfy_bullet_point_type_6": "",
+              "dbtfy_bullet_point_tag_6": "",
+              "dbtfy_bullet_point_product_6": "nue",
+              "dbtfy_bullet_point_text_7": "<p>High Quality<\/p>",
+              "dbtfy_bullet_point_icon_7": "favorite",
+              "visibility_7": "all",
+              "dbtfy_bullet_point_collection_7": "",
+              "dbtfy_bullet_point_type_7": "",
+              "dbtfy_bullet_point_tag_7": "",
+              "dbtfy_bullet_point_product_7": "",
+              "dbtfy_bullet_point_text_8": "",
+              "dbtfy_bullet_point_icon_8": "check_circle",
+              "visibility_8": "all",
+              "dbtfy_bullet_point_collection_8": "",
+              "dbtfy_bullet_point_type_8": "",
+              "dbtfy_bullet_point_tag_8": "",
+              "dbtfy_bullet_point_product_8": "",
+              "dbtfy_bullet_point_text_9": "",
+              "dbtfy_bullet_point_icon_9": "check_circle",
+              "visibility_9": "all",
+              "dbtfy_bullet_point_collection_9": "",
+              "dbtfy_bullet_point_type_9": "",
+              "dbtfy_bullet_point_tag_9": "",
+              "dbtfy_bullet_point_product_9": "",
+              "dbtfy_bullet_point_text_10": "",
+              "dbtfy_bullet_point_icon_10": "check_circle",
+              "visibility_10": "all",
+              "dbtfy_bullet_point_collection_10": "",
+              "dbtfy_bullet_point_type_10": "",
+              "dbtfy_bullet_point_tag_10": "",
+              "dbtfy_bullet_point_product_10": ""
+            }
+          }
+        },
+        "block_order": [
+          "ff517bc5-fbfc-4c3e-8f21-20327379a670"
+        ],
+        "settings": {
+          "dbtfy_bullet_points_position": "under-product-price",
+          "dbtfy_bullet_points_alignment": "left",
+          "dbtfy_bullet_points_display_type": "inline"
+        }
+      },
+      "dbtfy-cart-goal": {
+        "type": "dbtfy-cart-goal",
+        "blocks": {
+          "9145917c-7d82-436b-89d6-1f3c9b269791": {
+            "type": "goal",
+            "settings": {
+              "title": "",
+              "dbtfy_cart_goal_region_1": "united states",
+              "dbtfy_cart_goal_amount_1": "70",
+              "dbtfy_cart_goal_region_2": "",
+              "dbtfy_cart_goal_amount_2": "70",
+              "dbtfy_cart_goal_region_3": "",
+              "dbtfy_cart_goal_amount_3": "70",
+              "dbtfy_cart_goal_region_4": "",
+              "dbtfy_cart_goal_amount_4": "70",
+              "dbtfy_cart_goal_region_5": "",
+              "dbtfy_cart_goal_amount_5": "70",
+              "dbtfy_cart_goal_region_6": "",
+              "dbtfy_cart_goal_amount_6": "70",
+              "dbtfy_cart_goal_region_7": "",
+              "dbtfy_cart_goal_amount_7": "70",
+              "dbtfy_cart_goal_region_8": "",
+              "dbtfy_cart_goal_amount_8": "70",
+              "dbtfy_cart_goal_region_9": "",
+              "dbtfy_cart_goal_amount_9": "70",
+              "dbtfy_cart_goal_region_10": "",
+              "dbtfy_cart_goal_amount_10": "70"
+            }
+          }
+        },
+        "block_order": [
+          "9145917c-7d82-436b-89d6-1f3c9b269791"
+        ],
+        "settings": {
+          "dbtfy_cart_goal_before_text": "You're",
+          "dbtfy_cart_goal_amount": "70",
+          "dbtfy_cart_goal_after_text": "away from FREE shipping!",
+          "dbtfy_cart_goal_reached_text": "You are eligible for FREE shipping!",
+          "dbtfy_cart_goal_icons": "local_shipping"
+        }
+      },
+      "dbtfy-cart-upsell": {
+        "type": "dbtfy-cart-upsell",
+        "settings": {
+          "dbtfy_cart_upsell_button_style": "btn--primary"
+        }
+      },
+      "dbtfy-color-swatches": {
+        "type": "dbtfy-color-swatches",
+        "settings": {
+        }
+      },
+      "dbtfy-customizable-products": {
+        "type": "dbtfy-customizable-products",
+        "settings": {
+        }
+      },
+      "dbtfy-delivery-time": {
+        "type": "dbtfy-delivery-time",
+        "settings": {
+          "dbtfy_delivery_time_position": "under-addtocart-button"
+        }
+      },
+      "dbtfy-product-tabs": {
+        "type": "dbtfy-product-tabs",
+        "blocks": {
+          "62037f7c-2df5-4c30-8430-3685c63342ba": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "dbtfy_product_tabs_open": false,
+              "text_alignment": "text-center",
+              "dbtfy_product_tabs_icons": "",
+              "dbtfy_product_tabs_title": "Shipping Details",
+              "dbtfy_product_tabs_text": "<p>Nue Cup™ orders are fulfilled and then shipped to anywhere in the united states in an average 5-10 days. <\/p>",
+              "dbtfy_product_tabs_image_link": "",
+              "dbtfy_product_tabs_html": "",
+              "visibility": "product",
+              "dbtfy_product_tabs_collection": "",
+              "dbtfy_product_tabs_type": "",
+              "dbtfy_product_tabs_tag": "",
+              "dbtfy_product_tabs_product": "nue"
+            }
+          },
+          "b067c394-7eec-4c63-88d7-fff8eb72d6fb": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "dbtfy_product_tabs_open": false,
+              "text_alignment": "text-center",
+              "dbtfy_product_tabs_icons": "",
+              "dbtfy_product_tabs_title": "Returns",
+              "dbtfy_product_tabs_text": "<p>If there is any issues at all with your order don't hesitate to reach out to our friendly customer support team at hello@thenuecup.com. We will be happy to offer you an immediate solution and ensure you are left satisfied with your experience!<\/p>",
+              "dbtfy_product_tabs_image_link": "",
+              "dbtfy_product_tabs_html": "",
+              "visibility": "all",
+              "dbtfy_product_tabs_collection": "",
+              "dbtfy_product_tabs_type": "",
+              "dbtfy_product_tabs_tag": "",
+              "dbtfy_product_tabs_product": "nue"
+            }
+          },
+          "d519edaa-10c8-4142-a70e-dc829c6405c2": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "dbtfy_product_tabs_open": false,
+              "text_alignment": "text-center",
+              "dbtfy_product_tabs_icons": "",
+              "dbtfy_product_tabs_title": "Specifications",
+              "dbtfy_product_tabs_text": "<p><strong>The Nue Cup™<\/strong><\/p><p>Weight: 425g<br\/>Dimensions: 17.8*13.3*8.6cm<br\/>Battery Life: 3 hours on max<br\/>Charge Time: 4 hours<br\/>Suction Intensity: up to level 12 intensity (-5 to -60 kPa)<br\/>Red Light Wavelength: 630-670nm<br\/>Heat: 100°F - 122°F (38°C - 50°C)<br\/>LCD display with numbers and countdown timer<br\/>Pressure\/suction release button<\/p>",
+              "dbtfy_product_tabs_image_link": "",
+              "dbtfy_product_tabs_html": "",
+              "visibility": "all",
+              "dbtfy_product_tabs_collection": "",
+              "dbtfy_product_tabs_type": "",
+              "dbtfy_product_tabs_tag": "",
+              "dbtfy_product_tabs_product": ""
+            }
+          }
+        },
+        "block_order": [
+          "62037f7c-2df5-4c30-8430-3685c63342ba",
+          "b067c394-7eec-4c63-88d7-fff8eb72d6fb",
+          "d519edaa-10c8-4142-a70e-dc829c6405c2"
+        ],
+        "settings": {
+          "dbtfy_product_tabs_display_type": "vertical",
+          "dbtfy_product_tab_heading_color": "headings",
+          "dbtfy_product_tab_text_color": "text",
+          "dbtfy_product_tab_background_color": "accent_background"
+        }
+      },
+      "dbtfy-product-swatches": {
+        "type": "dbtfy-product-swatches",
+        "settings": {
+          "dbtfy_product_swatches_show_in_grid": true
+        }
+      },
+      "dbtfy-quantity-breaks": {
+        "type": "dbtfy-quantity-breaks",
+        "blocks": {
+          "76477023-af81-4133-89f9-ed7060a7d387": {
+            "type": "product-break",
+            "settings": {
+              "title": "",
+              "product_break_show_on_product_page": true,
+              "product_break_visibility": "product",
+              "product_break_collection": "",
+              "product_break_types": "",
+              "product_break_tags": "",
+              "product_break_product": "nue",
+              "product_break_range_1": 2,
+              "product_break_discount_code_1": "Buy 2",
+              "product_break_discount_amount_1": "20",
+              "product_break_discount_type_1": "$",
+              "product_break_range_2": 4,
+              "product_break_discount_code_2": "Buy 4",
+              "product_break_discount_amount_2": "50",
+              "product_break_discount_type_2": "$",
+              "product_break_range_3": 2,
+              "product_break_discount_code_3": "",
+              "product_break_discount_amount_3": "",
+              "product_break_discount_type_3": "$",
+              "product_break_range_4": 2,
+              "product_break_discount_code_4": "",
+              "product_break_discount_amount_4": "",
+              "product_break_discount_type_4": "%",
+              "product_break_range_5": 2,
+              "product_break_discount_code_5": "",
+              "product_break_discount_amount_5": "",
+              "product_break_discount_type_5": "%"
+            }
+          }
+        },
+        "block_order": [
+          "76477023-af81-4133-89f9-ed7060a7d387"
+        ],
+        "settings": {
+          "dbtfy_quantity_breaks_single_text": "Buy _COUNT_: _PRICE_ _SAVED_AMOUNT_",
+          "dbtfy_quantity_breaks_price_type": "total_price",
+          "dbtfy_quantity_breaks_more_discount_text_before": "Add",
+          "dbtfy_quantity_breaks_more_discount_text_after": "more item to unlock",
+          "dbtfy_quantity_breaks_more_discount_text_after_percentage": "off",
+          "dbtfy_quantity_breaks_highest_discount_text": "Highest discount applied!"
+        }
+      },
+      "dbtfy-size-chart": {
+        "type": "dbtfy-size-chart",
+        "settings": {
+          "dbtfy_size_chart_icon": "straighten",
+          "dbtfy_size_chart_title": "Size chart",
+          "dbtfy_size_chart_width": "large"
+        }
+      },
+      "dbtfy-upsell-popup": {
+        "type": "dbtfy-upsell-popup",
+        "blocks": {
+          "30ba3f09-601f-4936-9a0c-1961a08315a8": {
+            "type": "upsell",
+            "settings": {
+              "heading": "",
+              "title_1": "Lifetime Warranty!",
+              "text_1": "<p>For Only $5<\/p>",
+              "collection_trigger_1": "",
+              "product_trigger_1": "nue",
+              "product_offer_1": "warranty",
+              "icons_1": "card_giftcard",
+              "button_label_1": "Claim offer!",
+              "discount_name_1": "",
+              "discount_amount_1": "",
+              "discount_type_1": "%",
+              "title_2": "Special Offer!",
+              "text_2": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "collection_trigger_2": "",
+              "product_trigger_2": "",
+              "product_offer_2": "",
+              "icons_2": "card_giftcard",
+              "button_label_2": "Claim offer!",
+              "discount_name_2": "",
+              "discount_amount_2": "",
+              "discount_type_2": "%",
+              "title_3": "Special Offer!",
+              "text_3": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "collection_trigger_3": "",
+              "product_trigger_3": "",
+              "product_offer_3": "",
+              "icons_3": "card_giftcard",
+              "button_label_3": "Claim offer!",
+              "discount_name_3": "",
+              "discount_amount_3": "",
+              "discount_type_3": "%",
+              "title_4": "Special Offer!",
+              "text_4": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "collection_trigger_4": "",
+              "product_trigger_4": "",
+              "product_offer_4": "",
+              "icons_4": "card_giftcard",
+              "button_label_4": "Claim offer!",
+              "discount_name_4": "",
+              "discount_amount_4": "",
+              "discount_type_4": "%",
+              "title_5": "Special Offer!",
+              "text_5": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "collection_trigger_5": "",
+              "product_trigger_5": "",
+              "product_offer_5": "",
+              "icons_5": "card_giftcard",
+              "button_label_5": "Claim offer!",
+              "discount_name_5": "",
+              "discount_amount_5": "",
+              "discount_type_5": "%",
+              "title_6": "Special Offer!",
+              "text_6": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "collection_trigger_6": "",
+              "product_trigger_6": "",
+              "product_offer_6": "",
+              "icons_6": "card_giftcard",
+              "button_label_6": "Claim offer!",
+              "discount_name_6": "",
+              "discount_amount_6": "",
+              "discount_type_6": "%",
+              "title_7": "Special Offer!",
+              "text_7": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "collection_trigger_7": "",
+              "product_trigger_7": "",
+              "product_offer_7": "",
+              "icons_7": "card_giftcard",
+              "button_label_7": "Claim offer!",
+              "discount_name_7": "",
+              "discount_amount_7": "",
+              "discount_type_7": "%",
+              "title_8": "Special Offer!",
+              "text_8": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "collection_trigger_8": "",
+              "product_trigger_8": "",
+              "product_offer_8": "",
+              "icons_8": "card_giftcard",
+              "button_label_8": "Claim offer!",
+              "discount_name_8": "",
+              "discount_amount_8": "",
+              "discount_type_8": "%",
+              "title_9": "Special Offer!",
+              "text_9": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "collection_trigger_9": "",
+              "product_trigger_9": "",
+              "product_offer_9": "",
+              "icons_9": "card_giftcard",
+              "button_label_9": "Claim offer!",
+              "discount_name_9": "",
+              "discount_amount_9": "",
+              "discount_type_9": "%",
+              "title_10": "Special Offer!",
+              "text_10": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "collection_trigger_10": "",
+              "product_trigger_10": "",
+              "product_offer_10": "",
+              "icons_10": "card_giftcard",
+              "button_label_10": "Claim offer!",
+              "discount_name_10": "",
+              "discount_amount_10": "",
+              "discount_type_10": "%"
+            }
+          }
+        },
+        "block_order": [
+          "30ba3f09-601f-4936-9a0c-1961a08315a8"
+        ],
+        "settings": {
+          "dbtfy_upsell_popup_width": "",
+          "dbtfy_upsell_popup_description": "See product details",
+          "dbtfy_upsell_popup_cart": "No thanks",
+          "dbtfy_upsell_popup_checkout": "Go to checkout →",
+          "text_alignment": "text-center",
+          "dbtfy_upsell_popup_range": 75
+        }
+      },
+      "drawer-menu": {
+        "type": "drawer-menu",
+        "settings": {
+          "drawer_link_toggle": false,
+          "email": true,
+          "phone": true,
+          "show_social_medias": true,
+          "hide_menu_icon": false,
+          "title": "Menu",
+          "drawer_top_link_list": "main-menu",
+          "drawer_bottom_link_list": "footer"
+        }
+      },
+      "announcement": {
+        "type": "announcement",
+        "blocks": {
+          "announcement-0": {
+            "type": "message",
+            "settings": {
+              "title": "",
+              "announcement_text": "<p>30 Day Guarantee + 1 Year Warranty<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "announcement-0"
+        ],
+        "settings": {
+          "show_announcement": true,
+          "small_announcement_text": false,
+          "show_social": false,
+          "email": true,
+          "phone": false,
+          "left_message": "",
+          "right_message": "",
+          "announcement_autoplayspeed": 5
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "main_menu_link_list": "main-menu",
+          "navigation_type": "center",
+          "logo_link": true,
+          "default_logo_svg": "",
+          "inverted_logo_svg": "",
+          "mobile_logo_svg": "",
+          "logo_width": 200,
+          "logo_mobile_width": 150
+        }
+      },
+      "dbtfy-instagram-feed": {
+        "type": "dbtfy-instagram-feed",
+        "settings": {
+          "dbtfy_instagram_feed_icon": false,
+          "dbtfy_instagram_feed_access_token": "",
+          "dbtfy_instagram_feed_full_width": false,
+          "title": "From our Instagram",
+          "subtitle": "",
+          "dbtfy_instagram_feed_section_style": "section-border",
+          "dbtfy_instagram_feed_rows": "1",
+          "dbtfy_instagram_feed_desktop_grid": "6",
+          "dbtfy_instagram_feed_mobile_grid": "3"
+        }
+      },
+      "guarantee": {
+        "type": "guarantee",
+        "blocks": {
+          "guarantee-0": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "guarantee_icon": "thumb_up",
+              "heading_text": "Hassle-Free Returns",
+              "text": "",
+              "text_alignment": "text-center",
+              "text_alignment_mobile": "text-center",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "guarantee-2": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "guarantee_icon": "date_range",
+              "heading_text": "Free 1 Year Warranty",
+              "text": "",
+              "text_alignment": "text-center",
+              "text_alignment_mobile": "text-center",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "4f41d0ca-5d23-47fe-b040-faeadd48b9fe": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "guarantee_icon": "done_outline",
+              "heading_text": "100% Satisfaction Guaranteed",
+              "text": "",
+              "text_alignment": "text-center",
+              "text_alignment_mobile": "text-center",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1e44227c-1e82-4814-9e40-6538661e0b21": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "guarantee_icon": "grade",
+              "heading_text": "USA Customer Service",
+              "text": "",
+              "text_alignment": "text-center",
+              "text_alignment_mobile": "text-center",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "guarantee-0",
+          "guarantee-2",
+          "4f41d0ca-5d23-47fe-b040-faeadd48b9fe",
+          "1e44227c-1e82-4814-9e40-6538661e0b21"
+        ],
+        "settings": {
+          "show_guarantee": true,
+          "guarantee_size": "xl",
+          "section_style": "section-border"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "column_width": 2,
+              "svg": "",
+              "img_url": "",
+              "logo_width": 150,
+              "heading_text": "About Us",
+              "subtitle": "",
+              "text": "<p>Nue Cup™ is designed to take away your aches, pains and improve your over all body comfort. Aiding your recovery and getting you feeling your best!<\/p>",
+              "email": true,
+              "phone": true,
+              "show_social_media": false
+            }
+          },
+          "footer-1": {
+            "type": "link_list",
+            "settings": {
+              "title": "",
+              "column_width": 1,
+              "heading_text": "Quick Links",
+              "subtitle": "",
+              "footer_link_list": "footer"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "footer-1"
+        ],
+        "settings": {
+          "show_social_media": false,
+          "social_media_position_desktop": "right",
+          "social_title": "Follow-us on social media!",
+          "show_payment_icons": true,
+          "show_shopify_footer": false,
+          "show_debutify_footer": false,
+          "custom_credential": ""
+        }
+      },
+      "dbtfy-collection-filters": {
+        "type": "dbtfy-collection-filters",
+        "settings": {
+          "clear_label": "Clear",
+          "clear_all_label": "Clear All",
+          "hide_unavailable_options": false,
+          "visibility_tags_count": "none"
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  }
+}

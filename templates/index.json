@@ -62,8 +62,8 @@
       "type": "featured-image",
       "settings": {
         "show_on_desktop": false,
-        "show_on_mobile": true,
-        "full_width": true,
+        "show_on_mobile": false,
+        "full_width": false,
         "image": "shopify:\/\/shop_images\/Screenshot_2024-05-31_at_9.32.54_pm.png",
         "section_style": "section-blank",
         "image_link": ""
